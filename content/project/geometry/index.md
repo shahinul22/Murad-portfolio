@@ -1,7 +1,7 @@
 ---
 title: Geometry Genius
 date: 2024-10-26
-external_link: https://shahinul22.github.io/alphabet-clash/
+external_link: https://shahinul22.github.io/geometry-genius/
 tags:
   - Area Calculation
   - Wowchemy
