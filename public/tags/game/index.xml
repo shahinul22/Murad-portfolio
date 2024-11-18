@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/game/</link>
       <atom:link href="http://localhost:1313/tags/game/index.xml" rel="self" type="application/rss+xml" />
     <description>Game</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 29 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Game</title>
@@ -13,11 +13,27 @@
     </image>
     
     <item>
+      <title>Tribute to Bangabandhu Sheikh Mujibur Rahman</title>
+      <link>http://localhost:1313/project/tribute/</link>
+      <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/tribute/</guid>
+      <description>&lt;p&gt;Bangabandhu Sheikh Mujibur Rahman, the founding leader of Bangladesh, led the nation to independence in 1971 and is honored as the &amp;ldquo;Father of the Nation&amp;rdquo; for his enduring legacy.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Alphabet Clash</title>
       <link>http://localhost:1313/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/pandas/</guid>
       <description>&lt;p&gt;Alphabet Clash is a fast-paced letter-finding game that challenges your speed and accuracy.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tic Tac Toe Game</title>
+      <link>http://localhost:1313/project/tictac/</link>
+      <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/tictac/</guid>
+      <description>&lt;p&gt;Enjoy a classic game of Tic-Tac-Toe with this interactive, JavaScript-powered online version!&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>Tribute to Bangabandhu Sheikh Mujibur Rahman</title>
+      <link>http://localhost:1313/project/tribute/</link>
+      <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/tribute/</guid>
+      <description>&lt;p&gt;Bangabandhu Sheikh Mujibur Rahman, the founding leader of Bangladesh, led the nation to independence in 1971 and is honored as the &amp;ldquo;Father of the Nation&amp;rdquo; for his enduring legacy.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Alphabet Clash</title>
       <link>http://localhost:1313/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
@@ -29,11 +37,19 @@
     </item>
     
     <item>
-      <title>scikit-learn</title>
-      <link>http://localhost:1313/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Tic Tac Toe Game</title>
+      <link>http://localhost:1313/project/tictac/</link>
+      <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/tictac/</guid>
+      <description>&lt;p&gt;Enjoy a classic game of Tic-Tac-Toe with this interactive, JavaScript-powered online version!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>JavaScript Documantation</title>
+      <link>http://localhost:1313/project/technical/</link>
+      <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/technical/</guid>
+      <description>&lt;p&gt;This Technical Documentation site provides a structured guide for developers, offering essential coding concepts, examples, and explanations. It&amp;rsquo;s a valuable resource for learning and reference across various programming topics.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -42,6 +58,14 @@
       <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/pytorch/</guid>
       <description>&lt;p&gt;The Transport Management System for bus ticket booking is a Java-based GUI application designed to streamline bus ticket reservations. It allows users to search for buses, book tickets, and manage bookings through an intuitive interface. Admins can manage bus schedules, view booking details, and handle user accounts. The application ensures efficient ticket management and provides a seamless experience for both passengers and administrators.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Munshi-Tour-Travel</title>
+      <link>http://localhost:1313/project/scikit/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/scikit/</guid>
+      <description>&lt;p&gt;Munshi Tour &amp;amp; Travel offers a seamless way to plan your next adventure, providing curated travel packages, convenient booking options, and personalized experiences. Explore beautiful destinations and make unforgettable memories with ease and comfort.&lt;/p&gt;</description>
     </item>
     
   </channel>

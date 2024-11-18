@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/documantation/</link>
       <atom:link href="http://localhost:1313/tags/documantation/index.xml" rel="self" type="application/rss+xml" />
     <description>Documantation</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Documantation</title>
@@ -13,11 +13,11 @@
     </image>
     
     <item>
-      <title>Munshi-Tour-Travel</title>
+      <title>JavaScript Documantation</title>
       <link>http://localhost:1313/project/technical/</link>
-      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/technical/</guid>
-      <description>&lt;p&gt;Munshi Tour &amp;amp; Travel offers a seamless way to plan your next adventure, providing curated travel packages, convenient booking options, and personalized experiences. Explore beautiful destinations and make unforgettable memories with ease and comfort.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This Technical Documentation site provides a structured guide for developers, offering essential coding concepts, examples, and explanations. It&amp;rsquo;s a valuable resource for learning and reference across various programming topics.&lt;/p&gt;</description>
     </item>
     
   </channel>
