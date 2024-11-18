@@ -32,51 +32,52 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: ' 😃  Mission & Vission'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Mission -> As a passionate and detail-oriented Frontend Developer, my mission is to craft intuitive, accessible, and aesthetically compelling web experiences. I believe that a website is more than just a digital presence—it’s an opportunity to connect, engage, and inspire. I am dedicated to building interfaces that not only look beautiful but also deliver seamless, user-friendly experiences across all devices.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        vision-> My vision is to be at the forefront of web development innovation, continually learning, evolving, and pushing the boundaries of what’s possible in frontend design and functionality. I aim to create web applications that are as fast and responsive as they are visually engaging. By embracing new technologies and design trends, I strive to help businesses and individuals turn their ideas into reality through well-crafted digital experiences. 💎
         
-        Please reach out to collaborate 😃
-    design:
-      columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
+         
+
+    # design:
+      #  columns: '1'
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     # title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 2
+  # - block: collection
+  #   content:
+  #     # title: Recent Publications
+  #     text: ""
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: false
+  #   design:
+      # view: citation
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     # title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     view: article-grid
       columns: 1
   - block: collection
     id: news
     content:
-      title: Recent News
+      # title: Recent News
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -95,14 +96,14 @@ sections:
       # Choose how many pages you would like to offset by
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
-      order: desc
+      # order: desc
     design:
       # Choose a layout view
-      view: date-title-summary
+      # view: date-title-summary
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-  - block: cta-card
+  # - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
       title: 👉 Build your own academic website like this
